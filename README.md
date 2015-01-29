@@ -1,5 +1,5 @@
 # TAU
-Recopilación de proyectos del grupo TAU de la URJC
+Recopilación de proyectos, manuales, tutoriales, etc, del grupo TAU de la URJC
 
 Integrantes(Nombre completo - Usuario GitHub - Correo):
 
