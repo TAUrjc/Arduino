@@ -10,3 +10,5 @@ David Moreno Lumbreras - dlumbrer - dmorenolumb@gmail.com
 Jonathan Gines Clavero - jginesclavero - jonathangines@hotmail.com
 
 Samuel Salcedo Orellana - sorellan - s.salcedo.orellana@gmail.com
+
+Miguel Ávila Monroy - mavilam - m.avilam@hotmail.com
